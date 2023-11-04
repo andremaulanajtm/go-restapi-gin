@@ -1,4 +1,4 @@
-module github.com/tentangkode/go-restapi-gin
+module github.com/andremaulanajtm/go-restapi-gin
 
 go 1.18
 
